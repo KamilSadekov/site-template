@@ -1,0 +1,29 @@
+/* Global */
+@import "./inc/global/_grid.scss";
+@import "./inc/global/_fonts.scss";
+@import "./inc/global/_reset.scss";
+@import "./inc/global/_custom.scss";
+
+/* UI */
+@import "./inc/ui/_button.scss";
+@import "./inc/ui/_text.scss";
+@import "./inc/ui/_card.scss";
+@import "./inc/ui/_form.scss";
+
+/* Media */
+@import "./inc/media/_1600.scss";
+@import "./inc/media/_1199.scss";
+@import "./inc/media/_992.scss";
+@import "./inc/media/_768.scss";
+@import "./inc/media/_576.scss";
+@import "./inc/media/_475.scss";
+@import "./inc/media/_375.scss";
+@import "./inc/media/_320.scss";
+
+/* layouts */
+@import "./inc/layouts/header";
+@import "./inc/layouts/footer";
+
+
+/* pages */
+@import "./inc/pages/index";
